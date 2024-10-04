@@ -1,0 +1,5 @@
+stm32f1x unlock 0
+reset halt
+flash write_bank 0 ./gnuk-vidpid.bin 0
+stm32f1x lock 0
+reset halt

@@ -37,6 +37,6 @@ make build/gnuk-vidpid.bin
 4. DONE
 
 ## Resources
-https://tccmu.com/2024/08/05/gnuk/
-https://blog.csdn.net/nick_young_qu/article/details/108217987
-https://salsa.debian.org/gnuk-team/gnuk/gnuk
+- https://tccmu.com/2024/08/05/gnuk/
+- https://blog.csdn.net/nick_young_qu/article/details/108217987
+- https://salsa.debian.org/gnuk-team/gnuk/gnuk

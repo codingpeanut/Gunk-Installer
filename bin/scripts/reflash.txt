@@ -1,0 +1,7 @@
+reset halt
+stm32f1x unlock 0
+reset halt
+stm32f1x mass_erase 0
+flash write_bank 0 ./src/build/gnuk-vidpid.bin 0
+stm32f1x lock 0
+reset halt
